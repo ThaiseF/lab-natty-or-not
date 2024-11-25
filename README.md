@@ -19,5 +19,5 @@ O e-book foi completado com sucesso e oferece aos leitores um guia passo a passo
 
 O cronograma de postagens semanal também foi incluído, oferecendo um plano prático que pode ser seguido por qualquer pequeno negócio. A combinação de exemplos de posts, dicas e estratégias de automação tem o potencial de aumentar significativamente o engajamento e a produtividade nas plataformas digitais.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Criar algo "natty" com IA apresentou um desafio interessante, pois foi necessário equilibrar a criatividade humana com as sugestões geradas pela IA, de forma a manter a autenticidade e a originalidade do conteúdo. A IA é uma ferramenta poderosa, mas a chave para um resultado "natty" está em como usamos essa tecnologia para complementar e aprimorar nossa própria visão criativa.
